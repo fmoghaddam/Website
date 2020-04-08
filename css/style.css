@@ -380,13 +380,13 @@ tr > td:nth-child(2) {
 }
 
 .logo a {
-    display: block;
-    color: #333333;
-    letter-spacing: 6px;
-    font-weight: 600;
-    font-size: 14px;
-	border-bottom: 4px solid #f7639a;
-    width: 92px;
+        display: block ruby;
+        color: #333333;
+        letter-spacing: 2px;
+        font-weight: 600;
+        font-size: 14px;
+        border-bottom: 4px solid #f7639a;
+        width: 167px;
 }
 
 .navigation-menu .navbar-nav li a {
